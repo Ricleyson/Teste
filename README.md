@@ -7,3 +7,4 @@
 - asoidjasoipdjaiosdjiaosjdoia
 - teste update
 - teste conflito
+- pull teste
